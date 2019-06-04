@@ -11,7 +11,7 @@ time.sleep(1)
 time.sleep(0.5)
 
 #here we set the secret
-word = "python"
+word = input("Enter in a word for you friends to guess!")
 
 #creates an variable with an empty value
 guesses = ''
