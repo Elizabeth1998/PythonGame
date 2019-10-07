@@ -13,7 +13,9 @@ time.sleep(0.5)
 userinput = input("Type in the hangman word for your choice: ")
 type(userinput)
 #here we set the secret
+
 word = userinput
+
 
 #creates an variable with an empty value
 guesses = ''
