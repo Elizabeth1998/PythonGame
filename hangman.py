@@ -2,7 +2,8 @@
 import time
 
 #welcoming the user
-print ("Hello, Time to play hangman!")
+print ("Hello, Time to play hangman! This is a test")
+print("I hope that it works!")
 
 
 #wait for 1 second
